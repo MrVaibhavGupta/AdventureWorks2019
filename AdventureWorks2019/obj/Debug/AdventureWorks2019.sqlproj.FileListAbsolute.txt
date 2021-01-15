@@ -1,0 +1,10 @@
+C:\Users\vaibh\source\repos\AdventureWorks2019\AdventureWorks2019\bin\Debug\AdventureWorks2019.dacpac
+C:\Users\vaibh\source\repos\AdventureWorks2019\AdventureWorks2019\bin\Debug\AdventureWorks2019.dll
+C:\Users\vaibh\source\repos\AdventureWorks2019\AdventureWorks2019\bin\Debug\AdventureWorks2019.pdb
+C:\Users\vaibh\source\repos\AdventureWorks2019\AdventureWorks2019\obj\Debug\AdventureWorks2019.sqlprojAssemblyReference.cache
+C:\Users\vaibh\source\repos\AdventureWorks2019\AdventureWorks2019\obj\Debug\Model.xml
+C:\Users\vaibh\source\repos\AdventureWorks2019\AdventureWorks2019\obj\Debug\refactor.xml
+C:\Users\vaibh\source\repos\AdventureWorks2019\AdventureWorks2019\obj\Debug\postdeploy.sql
+C:\Users\vaibh\source\repos\AdventureWorks2019\AdventureWorks2019\obj\Debug\predeploy.sql
+C:\Users\vaibh\source\repos\AdventureWorks2019\AdventureWorks2019\obj\Debug\AdventureWorks2019.dll
+C:\Users\vaibh\source\repos\AdventureWorks2019\AdventureWorks2019\obj\Debug\AdventureWorks2019.pdb

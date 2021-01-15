@@ -1,0 +1,10 @@
+15-01-2021 17:31:51	This log contains information about the import schema operation into project 'AdventureWorks2019' on computer 'MSI' by user 'vaibh'.
+15-01-2021 17:31:51	Deserializing model
+15-01-2021 17:31:53	Resolving model
+15-01-2021 17:31:54	Visiting imported model for types
+15-01-2021 17:31:56	Scanning project for duplicate elements
+15-01-2021 17:31:56	Finished duplicate element processing
+15-01-2021 17:32:15	Processing extra files
+15-01-2021 17:32:15	Finished importing Data-tier Application file.
+15-01-2021 17:32:15	A summary of the import was saved to the following location: C:\Users\vaibh\source\repos\AdventureWorks2019\AdventureWorks2019\Import Schema Logs\AdventureWorks2019_20210115120151.log
+15-01-2021 17:32:15	Click Finish to continue...
